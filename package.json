@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "seven-imagepicker@^1.0.0",
+        "scope": null,
+        "escapedName": "seven-imagepicker",
+        "name": "seven-imagepicker",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <0.25.0",
+        "type": "range"
+      },
+      "F:\\Test-Mobile"
+    ]
+  ],
+  "_from": "seven-imagepicker@>=1.0.0 <0.25.0",
+  "_id": "seven-imagepicker@1.0.0",
+  "_inCache": true,
+  "_location": "/seven-imagepicker",
+  "_nodeVersion": "5.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/seven-imagepicker-1.0.0.tgz_1480527184512_0.5653756421525031"
+  },
+  "_npmUser": {
+    "name": "novaseven",
+    "email": "developer@mail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "seven-imagepicker@^1.0.0",
+    "scope": null,
+    "escapedName": "seven-imagepicker",
+    "name": "seven-imagepicker",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <0.25.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/seven-imagepicker/-/seven-imagepicker-1.0.0.tgz",
+  "_shasum": "0a73fc66ec9e0d28bf3a75df996ad29f695d016c",
+  "_shrinkwrap": null,
+  "_spec": "seven-imagepicker@^1.0.0",
+  "_where": "F:\\Test-Mobile",
+  "author": {
+    "name": "Nova Seven",
+    "url": "novaseven"
+  },
+  "bugs": {
+    "url": "https://github.com/novaseven/seven-imagepicker/issues"
+  },
+  "dependencies": {},
+  "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0a73fc66ec9e0d28bf3a75df996ad29f695d016c",
+    "tarball": "https://registry.npmjs.org/seven-imagepicker/-/seven-imagepicker-1.0.0.tgz"
+  },
+  "gitHead": "eecacc51d0776b726ea507f6231278a817e39bb6",
+  "homepage": "https://github.com/novaseven/seven-imagepicker#readme",
+  "keywords": [
+    "react-native",
+    "seven-imagepicker",
+    "react",
+    "native",
+    "image",
+    "picker"
+  ],
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "novaseven",
+      "email": "developer@mail.com"
+    }
+  ],
+  "name": "seven-imagepicker",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaseven/seven-imagepicker.git"
+  },
+  "scripts": {
+    "prepublish": "rm -rf android/build Example/android/build Example/android/app/build"
+  },
+  "types": "./index.d.ts",
+  "version": "1.0.0"
+}
